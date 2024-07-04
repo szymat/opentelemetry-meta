@@ -1,5 +1,5 @@
 {
-  "name": "open-telemetry/opentelemetry",
+  "name": "szymat/opentelemetry",
   "type": "metapackage",
   "description": "OpenTelemetry metapackage",
   "keywords": ["opentelemetry", "otel", "open-telemetry", "tracing", "logging", "metrics"],
